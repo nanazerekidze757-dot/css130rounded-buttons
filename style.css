@@ -1,0 +1,60 @@
+body {
+
+    text-align: center;
+
+}
+
+h1 {
+
+    font-size: 40px;
+    color: rgb(10, 10, 43);
+
+}
+
+button {
+
+    height: 80px;
+
+    border: none;
+
+    color: white;
+
+    font-size: 25px;
+
+    box-shadow:  center;
+
+}
+
+.blue{
+    border-radius: 7px;
+    background-color: blue;
+}
+
+.green {
+
+    background-color: green;
+
+    border-radius: 7px;
+
+}
+
+.yellow {
+
+    background-color: yellow;
+
+    border-radius: 7px;
+
+}
+
+.red {
+
+    background-color: red;
+
+    border-radius: 50%;
+
+    width: 170px;
+
+    height: 170px;
+
+    box-shadow: center;
+}
